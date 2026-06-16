@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.uasset linguist-language=C++
+*.umap linguist-language=C++
+*.uproject linguist-language=C++
